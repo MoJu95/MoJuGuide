@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="attraction_names">
+        <item>@string/babYemen</item>
+        <item>@string/jewTown</item>
+        <item>@string/oldSanaa</item>
+        <item>@string/natMuseum </item>
+        <item>@string/palace</item>
+        <item>@string/funCity</item>
+    </string-array>
+
+    <string-array name="attraction_addresses">
+        <item>21, Taiz Road Next to Defence Ministry</item>
+        <item>Bait bos area, next to 30 st</item>
+        <item>26, Tahrir square </item>
+        <item>68, Tahrir Roundabout</item>
+        <item>Wadi Dhahr Avenue</item>
+        <item>62, Sabeen square</item>
+    </string-array>
+
+    <string-array name="attraction_visitors">
+        <item>10000 per year</item>
+        <item>21000 per year</item>
+        <item>15000 per year</item>
+        <item>6800 per year</item>
+        <item>8000 per year</item>
+        <item>9000 per year</item>
+    </string-array>
+
+    <array name="attraction_images">
+        <item>@drawable/download</item>
+        <item>@drawable/jewtown</item>
+        <item>@drawable/oldsanaa</item>
+        <item>@drawable/natmusuem</item>
+        <item>@drawable/palace</item>
+        <item>@drawable/funcity</item>
+    </array>
+
+    <string-array name="event_names">
+        <item>@string/springShop</item>
+        <item>@string/independence</item>
+        <item>@string/natHistory</item>
+        <item>@string/ramadan</item>
+    </string-array>
+
+    <string-array name="event_addresses">
+        <item>everywhere</item>
+        <item>everywhere</item>
+        <item>everywhere</item>
+        <item>everywhere</item>
+    </string-array>
+
+    <string-array name="event_visitors">
+        <item>2000 per year</item>
+        <item>1200 per year</item>
+        <item>1000 per year</item>
+        <item>750 per year</item>
+    </string-array>
+
+    <array name="event_images">
+        <item>@drawable/springshop</item>
+        <item>@drawable/independence</item>
+        <item>@drawable/nathist</item>
+        <item>@drawable/ramadan</item>
+    </array>
+
+    <string-array name="restraunts_names">
+        <item>Alquzi Restaurant</item>
+        <item>Remas Restaurant</item>
+        <item>Alshaibani Restaurant</item>
+        <item>Alrabea Restaurant</item>
+
+    </string-array>
+
+    <string-array name="restraunts_addresses">
+        <item>Alsafia district, in front of Finance Ministry</item>
+        <item>14th October st</item>
+        <item>Hadda st.</item>
+        <item>Zubairy st.</item>
+
+    </string-array>
+
+    <string-array name="restraunts_visitors">
+        <item>3000 per year</item>
+        <item>3100 per year</item>
+        <item>2500 per year</item>
+        <item>3600 per year</item>
+    </string-array>
+
+    <array name="restraunts_images">
+        <item>@drawable/quzy</item>
+        <item>@drawable/remas</item>
+        <item>@drawable/shaibani</item>
+        <item>@drawable/rabea</item>
+
+    </array>
+
+    <string-array name="public_names">
+        <item>National Library</item>
+        <item>Old Sanaa Cafe</item>
+        <item>Moonlight Cafe</item>
+        <item>Sam City Club</item>
+        <item>Weider Club</item>
+    </string-array>
+
+    <string-array name="public_addresses">
+        <item>Alqasr st.</item>
+        <item>Souq Almilh, inside Old Sanaa</item>
+        <item>Hadda st.</item>
+        <item>50 st.</item>
+        <item>Zubairy st.</item>
+    </string-array>
+
+    <string-array name="public_visitors">
+        <item>1500 per year</item>
+        <item>1400 per year</item>
+        <item>3000 per year</item>
+        <item>5000 per year </item>
+        <item>4500 per year</item>
+    </string-array>
+
+    <array name="public_images">
+        <item>@drawable/library</item>
+        <item>@drawable/oldcafe</item>
+        <item>@drawable/mooncafe</item>
+        <item>@drawable/samclub</item>
+        <item>@drawable/weiderclub</item>
+    </array>
+</resources>

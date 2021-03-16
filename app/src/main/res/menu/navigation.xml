@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/attractionNav"
+        android:icon="@drawable/att"
+        android:title="@string/title_attraction" />
+
+    <item
+        android:id="@+id/restrauntsNav"
+        android:icon="@drawable/res"
+        android:title="@string/title_restraunts" />
+
+    <item
+        android:id="@+id/publicNav"
+        android:icon="@drawable/pub"
+        android:title="@string/title_public" />
+
+    <item
+        android:id="@+id/eventsNav"
+        android:icon="@drawable/events"
+        android:title="@string/title_events" />
+</menu>

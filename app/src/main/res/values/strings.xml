@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MoJu Guide</string>
+    <string name="title_attraction">Attractions</string>
+    <string name="title_restraunts">Restraunts</string>
+    <string name="title_public">Public Places</string>
+    <string name="title_events">Events</string>
+    <string name="title_home">Sanaa City</string>
+    <string name="babYemen">Bab AlYemen</string>
+    <string name="jewTown">Old Jew Town</string>
+    <string name="oldSanaa"> Old Sanaa</string>
+    <string name="natMuseum">National Museum</string>
+    <string name="palace">Ghamdan Palace</string>
+    <string name="funCity">Fun City</string>
+    <string name="natHistory">National History Day</string>
+    <string name="springShop"> Spring Shopping Festival</string>
+    <string name="independence"> Independence Day</string>
+    <string name="ramadan"> Ramadan Holy Month</string>
+</resources>
