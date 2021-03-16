@@ -22,6 +22,7 @@
         android:background="@color/colorPrimary"
         app:itemIconTint="@color/itemIcon"
         app:itemTextColor="@color/textIcon"
+        app:labelVisibilityMode="labeled"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
